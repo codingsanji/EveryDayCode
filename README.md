@@ -1,6 +1,6 @@
 # EveryDayCode
 
-Welcome to **CodeEveryDay** — a personal challenge and journey to improve coding skills by writing **one program every single day**!  
+Welcome to **EveryDayCode** — a personal challenge and journey to improve coding skills by writing **one program every single day**!  
 
 ## 🎯 Goal
 
