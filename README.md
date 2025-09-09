@@ -12,10 +12,10 @@ The main goal of this repository is simple:
 
 ## 🗂️ Structure
 
-This repo is organized by **language and topic (with date)**. For example:
+This repo is organized by **language and topic**. For example:
 
-- (Python) `20250928_HelloWorld.py`
-- (Java)   `20300629_LinkedListExample.java`
+- (Python) `HelloWorld.py`
+- (Java)   `LinkedListExample.java`
 
 Each question or program is implemented in **multiple languages**, so the practice feels more balanced and helps build a stronger foundation across different stacks.
 
