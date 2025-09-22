@@ -24,4 +24,4 @@ Each question or program is implemented in **multiple languages**, so the practi
 ## 🧑‍💻 Let's Connect!
 
 If you’re also doing a similar challenge or just want to say hi, feel free to reach out!
-![Connect Image](https://i.pinimg.com/736x/f7/d6/bb/f7d6bbdd6416385c4fda92dfb03704ab.jpg)
+![Connect Image](https://i.pinimg.com/736x/a5/b7/95/a5b795c1086890db9175092e37e2cafa.jpg)
