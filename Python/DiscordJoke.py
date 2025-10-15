@@ -1,4 +1,4 @@
-'''weird encrypter---
+'''weird encrypter---DO NOTE THAT THIS ISN'T ACTUALLY AN ENCRYPTER AND DOESN'T ACTUALLY ENCRYPT ANYTHING. JUST AUTOMATES A JOKE IM PLAYING.
 I read somewhere that if the first and last letter of a word is in the correct positions,
 even if the rest of the word is jumbled, your brain automatically fills in the word for you.
 
@@ -64,7 +64,7 @@ while True:
         
     line = input("Type your sentence: ")
 
-    if stop_program:   # check if ESC was pressed
+    if stop_program:   
         print("\nBye mate! It was fun playing with you.")
         sys.exit(0)
         
