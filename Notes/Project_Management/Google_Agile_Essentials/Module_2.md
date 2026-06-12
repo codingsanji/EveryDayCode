@@ -1,7 +1,5 @@
 ### **Google Agile Essentials**
 
-
-
 ##### **Module 2:** 
 
 ###### 
